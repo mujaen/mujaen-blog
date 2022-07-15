@@ -1,0 +1,21 @@
+{
+  "name": "mujaen-blog",
+  "version": "1.0.0",
+  "description": "<h2>반갑습니다! 오늘도 즐거운 코딩하세요 👋</h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mujaen/mujaen-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mujaen/mujaen-blog/issues"
+  },
+  "homepage": "https://github.com/mujaen/mujaen-blog#readme",
+  "packageManager": "yarn@3.2.1"
+}
