@@ -17,5 +17,8 @@
     "url": "https://github.com/mujaen/mujaen-blog/issues"
   },
   "homepage": "https://github.com/mujaen/mujaen-blog#readme",
-  "packageManager": "yarn@3.2.1"
+  "packageManager": "yarn@3.2.1",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }
